@@ -1,0 +1,5 @@
+name: 'todo[bot]'
+description: 'something happens'
+runs:
+  using: 'node12'
+  main: 'action.js'
